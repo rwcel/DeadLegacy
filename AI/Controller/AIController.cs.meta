@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 851c2bfefefc6754cb893a8c1eebf0ea
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bloodDecal: {fileID: 6170686965416822502, guid: fc2b8dac1d9a1d246b971b692a2fd255,
+      type: 3}
+  - bloodDecal2: {fileID: 6170686965416822502, guid: 837efa06dfc4e6744a1ca8ca257985cf,
+      type: 3}
+  - bloodParticle: {fileID: 8688068469648185767, guid: 32d09247016afdb40b31def6da15e120,
+      type: 3}
+  - attackTr: {instanceID: 0}
+  - deadObj: {instanceID: 0}
+  executionOrder: 400
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
